@@ -14,6 +14,8 @@
     + 예약현황 확인하기
         + 새로운 `reservationStatus.html` 만들어 연동
 
+### Navbar에 회원가입, 로그인 구현하기
+
 ### Home 페이지에 Carousel을 이용
 + Carousel 만들기
     + 사진을 이용해서 슬라이드 만들기
